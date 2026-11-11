@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Animal Health Care Centre logo</title>
+  <desc id="desc">Circular AHC logo with livestock symbols in deep green, white, and gold.</desc>
+  <defs>
+    <style>
+      .green{fill:#145A32}
+      .gold{fill:#D4A017}
+      .white{fill:#FFFFFF}
+      .stroke-green{fill:none;stroke:#145A32;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}
+      .stroke-gold{fill:none;stroke:#D4A017;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+
+  <circle cx="110" cy="110" r="101" class="white"/>
+  <circle cx="110" cy="110" r="101" class="stroke-green"/>
+  <circle cx="110" cy="110" r="63" class="green"/>
+  <circle cx="110" cy="110" r="73" class="stroke-gold"/>
+
+  <g class="stroke-gold">
+    <path d="M110 18v34"/>
+    <path d="M110 168v34"/>
+    <path d="M18 110h34"/>
+    <path d="M168 110h34"/>
+    <path d="M45 45l25 25"/>
+    <path d="M175 45l-25 25"/>
+    <path d="M45 175l25-25"/>
+    <path d="M175 175l-25-25"/>
+  </g>
+
+  <text x="110" y="123" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="900" class="white">AHC</text>
+  <text x="110" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="800" class="white">ANIMAL HEALTH</text>
+
+  <g transform="translate(92 22)">
+    <circle cx="18" cy="18" r="18" class="gold"/>
+    <path d="M9 19c2-8 14-8 18 0 2 5-1 10-9 10s-11-5-9-10z" class="white"/>
+    <path d="M27 14c5-1 8 2 8 6-4 0-7-1-10-3z" class="white"/>
+    <circle cx="16" cy="17" r="1.7" class="green"/>
+  </g>
+
+  <g transform="translate(160 78)">
+    <circle cx="22" cy="22" r="20" class="gold"/>
+    <path d="M9 26c8-10 18-10 28 0-10 8-20 8-28 0z" class="white"/>
+    <circle cx="31" cy="24" r="1.8" class="green"/>
+    <path d="M12 26l-7-5M12 26l-7 5" class="stroke-green"/>
+  </g>
+
+  <g transform="translate(82 160)">
+    <circle cx="28" cy="22" r="21" class="gold"/>
+    <path d="M13 18h25l5 8-5 9H16l-6-9z" class="white"/>
+    <path d="M19 18l-7-8M34 18l7-8" class="stroke-green"/>
+    <circle cx="35" cy="25" r="1.8" class="green"/>
+  </g>
+
+  <g transform="translate(18 78)">
+    <circle cx="22" cy="22" r="20" class="gold"/>
+    <path d="M10 20c3-8 17-11 24-3 6 7 1 18-11 18-11 0-17-7-13-15z" class="white"/>
+    <path d="M15 14l-8-7M30 14l8-7" class="stroke-green"/>
+    <circle cx="29" cy="22" r="1.8" class="green"/>
+  </g>
+</svg>
